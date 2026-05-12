@@ -1,0 +1,1 @@
+# ema-rsi-atr-market-open-scalper
